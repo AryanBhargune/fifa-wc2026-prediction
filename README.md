@@ -203,7 +203,7 @@ The original model predicted Turkey in the final 💀. Here's what was wrong and
 
 Built as part of a sports analytics portfolio. Open to data science / sports analytics roles and collaborations.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/aryan-bhargune-98519a346/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?logo=kaggle)](https://kaggle.com/yourprofile)
 
 ---
