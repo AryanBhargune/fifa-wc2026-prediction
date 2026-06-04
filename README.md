@@ -12,7 +12,7 @@
 | Macro F1 Score | **~0.46** |
 | Training matches used | **49,000+** |
 | WC 2026 group fixtures predicted | **72** |
-| Predicted Champion | **ESP SPAIN** |
+| Predicted Champion | **ES SPAIN** |
 
 > The model outperforms a naive "home team always wins" baseline and a random baseline (~33%) by a significant margin on a genuinely hard 3-class problem (Home Win / Draw / Away Win).
 
